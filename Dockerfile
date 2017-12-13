@@ -1,5 +1,5 @@
-FROM kvaps/baseimage:systemd
-MAINTAINER kvaps <kvapss@gmail.com>
+FROM koni/baseimage:systemd
+MAINTAINER githubown <github@own.goip.de>
 ENV REFRESHED_AT 2017-01-30
 
 # Ports: HTTP HTTPS SMTP SMTPS POP3 POP3S IMAP IMAPS SIEVE
